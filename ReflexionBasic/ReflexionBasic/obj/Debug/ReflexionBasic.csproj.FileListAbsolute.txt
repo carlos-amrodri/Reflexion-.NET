@@ -1,0 +1,6 @@
+/Users/carlosrodriguez/Projects/ReflexionBasic/ReflexionBasic/bin/Debug/ReflexionBasic.exe
+/Users/carlosrodriguez/Projects/ReflexionBasic/ReflexionBasic/bin/Debug/ReflexionBasic.pdb
+/Users/carlosrodriguez/Projects/ReflexionBasic/ReflexionBasic/obj/Debug/ReflexionBasic.csprojAssemblyReference.cache
+/Users/carlosrodriguez/Projects/ReflexionBasic/ReflexionBasic/obj/Debug/ReflexionBasic.csproj.CoreCompileInputs.cache
+/Users/carlosrodriguez/Projects/ReflexionBasic/ReflexionBasic/obj/Debug/ReflexionBasic.exe
+/Users/carlosrodriguez/Projects/ReflexionBasic/ReflexionBasic/obj/Debug/ReflexionBasic.pdb
